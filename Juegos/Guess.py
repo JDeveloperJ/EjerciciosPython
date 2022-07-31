@@ -6,6 +6,7 @@ comprobar = True
 numero = random.randint(minNum,maxNum)
 
 print("Hola,Bienvenido al Juego, ¡Adivina el numero!")
+print("Ingresa los datos que se te pide a continuacion")
 nombre = input(print("¿Cual es tu nombre?"))
 print("Bien " + str(nombre) + " Adivina el numero que esta entre los numeros " + str(minNum) + " y " + str(maxNum))
 
