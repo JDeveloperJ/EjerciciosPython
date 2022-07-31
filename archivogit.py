@@ -17,6 +17,7 @@ elif opcion == 2:
 else:
     mutiplicacion = numero1 * numero2
     print("La multiplicacion es es: " , mutiplicacion)
+print("Gracias por haber visitado este programa")
 
 
 
